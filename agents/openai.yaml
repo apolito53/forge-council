@@ -1,0 +1,4 @@
+interface:
+  display_name: "ForgeCouncil"
+  short_description: "Independent engineering reviews with a fresh judge"
+  default_prompt: "Use $forge-council to convene independent engineering reviewers and a fresh judge for this design decision. Review only; do not implement."
